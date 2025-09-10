@@ -60,6 +60,12 @@ Developed as part of the **Concurrent Programming module (CT074-3-2-CCP)** at **
 
 ---
 
+## 📊 System Flow
+<img width="856" height="670" alt="Screenshot 2025-09-11 031550" src="https://github.com/user-attachments/assets/3bb6861e-e07f-4ca3-9c62-a2ff21657640" />
+<img width="472" height="762" alt="Screenshot 2025-09-11 031628" src="https://github.com/user-attachments/assets/6add3cb7-8230-4501-932d-c2481051d750" />
+
+
+
 ## 🚀 How to Run  
 
 ```bash
